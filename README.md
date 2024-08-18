@@ -10,7 +10,7 @@ Soy un entusiasta de la ciencia de datos, con un gran interés en aprender y esp
 
 ---
 
-## 🌟 Frases que me inspiran
+## 🌟 Frases que inspiran
 
 > "El éxito es la suma de pequeños esfuerzos repetidos día tras día."  
 > — Robert Collier
@@ -44,9 +44,9 @@ Descripción adicional de un proyecto relevante.
 
 ## 🛠 Habilidades Técnicas
 
-- **Lenguajes de Programación**: Python, JavaScript, SQL
-- **Frameworks**: Django, Flask, React
-- **Herramientas**: Git, Docker, AWS
+- **Lenguajes de Programación**: Python, SQL
+- **Frameworks**: 
+- **Herramientas**: Git, AWS
 
 ---
 
@@ -62,5 +62,4 @@ Descripción adicional de un proyecto relevante.
 
 ---
 
-*"El futuro pertenece a quienes creen en la belleza de sus sueños."*  
-— Eleanor Roosevelt
+
